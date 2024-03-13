@@ -6,7 +6,7 @@ Este repositorio es un recopilatorio de ideas para el desarrollo del proyecto fi
 
 <!-- - [Idea {X}: {titulo}](./ideas/idea_0{x}.md) -->
 
--  [Idea 1: Plataforma de Colaboración Musical](./ideas/idea_01.md)
+-  [Idea 1: SocialConnect](./ideas/idea_01.md)
 
 ## Contribuir
 
